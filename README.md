@@ -3,7 +3,9 @@
 
 - 📫 How to reach me **tkyeicharway@gmail.com**
 
-- ⚡ Fun fact **I write codes and read philosophy.**
+## 💡 Fun Fact
+> "Code is poetry. Philosophy is the syntax of existence."
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
